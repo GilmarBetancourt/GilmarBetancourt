@@ -16,12 +16,16 @@ Some of my work looks like this:
 <br>
 
 <p align="center">
-    <span style="padding-right: 20px;">
-        <img src="img/screencapture-english4everyone-net-2024-12-20-14_04_49.jpg" alt="English4Everyone homepage" width="200" height="auto"/>
-    </span>
-    <span>
-        <img src="img/screencapture-alexismaizo-netlify-app-2025-05-19-16_02_04.jpg" alt="Writer's Portfolio" width="200" height="auto"/>
-    </span>
+    <a href="https://english4everyone.net/" target="_blank" rel="noopener noreferrer">
+        <span style="padding-right: 20px;">
+            <img src="img/screencapture-english4everyone-net-2024-12-20-14_04_49.jpg" alt="English4Everyone homepage" width="200" height="auto"/>
+        </span>
+    </a>
+    <a href="https://alexismaizo.netlify.app/" target="_blank" rel="noopener noreferrer">
+        <span>
+            <img src="img/screencapture-alexismaizo-netlify-app-2025-05-19-16_02_04.jpg" alt="Writer's Portfolio" width="200" height="auto"/>
+        </span>
+    </a>
 </p>
 
 <br>
