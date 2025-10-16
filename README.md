@@ -16,8 +16,8 @@ Some of my work looks like this:
 <br>
 
 <p align="center">
-    <img src="img/screencapture-english4everyone-net-2024-12-20-14_04_49.jpg" alt="English4Everyone homepage" width="200" height="250" style="border-radius:10px; padding-right: 20px;"/>
-    <img src="img/screencapture-alexismaizo-netlify-app-2025-05-19-16_02_04.jpg" alt="Writer's Portfolio" width="200" height="250" style="border-radius:10px;"/>
+    <img src="img/screencapture-english4everyone-net-2024-12-20-14_04_49.jpg" alt="English4Everyone homepage" width="200" height="250" style="border-radius:10px; margin-right: 20px;"/>
+    <img src="img/screencapture-alexismaizo-netlify-app-2025-05-19-16_02_04.jpg" alt="Writer's Portfolio" width="200" height="265" style="border-radius:10px;"/>
 </p>
 
 <br>
